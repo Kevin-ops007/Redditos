@@ -1,0 +1,25 @@
+{
+  "name": "Redditos",
+  "version": "1.0.0",
+  "description": "A reddit clone",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevin-ops007/Redditos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kevin-ops007/Redditos/issues"
+  },
+  "homepage": "https://github.com/Kevin-ops007/Redditos#readme",
+  "devDependencies": {
+    "@types/node": "^16.4.10",
+    "ts-node": "^10.1.0",
+    "typescript": "^4.3.5"
+  }
+}
